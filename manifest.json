@@ -3,7 +3,7 @@
   "url": "https://github.com/MTargon/FS_updates/releases/download/0.1.6/FreeSpeaker-0.1.6.msi",
   "sha256": "48A4AD7BCFB2255239A8F51AA20A408603FD3CCF48F893CB5C0F6160EE7AB084",
   "notes": "AutoUpdate",
-  "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/v0.1.6/FreeSpeaker-0.1.6.msi",
+  "windowsUrl": null,
   "macUrl": null,
   "linuxUrl": null
 }
