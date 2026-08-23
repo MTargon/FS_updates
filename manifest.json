@@ -1,10 +1,10 @@
 {
-  "version": "0.1.6",
-  "url": "https://github.com/MTargon/FS_updates/releases/download/0.1.6/FreeSpeaker-0.1.6.msi",
-  "sha256": "48A4AD7BCFB2255239A8F51AA20A408603FD3CCF48F893CB5C0F6160EE7AB084",
-  "signature": "dRWX3QY5DVCAYFlkPUJwU1msEoDzAlsPVy546hzj8bUi7L6IsxPGEEKZ2xbONIQzFwdhsRsH7KeoGPvDpgmwCg==",
-  "notes": "AutoUpdate",
-  "windowsUrl": null,
-  "macUrl": null,
-  "linuxUrl": null
+    "version": "0.1.7",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.1.7/FreeSpeaker-0.1.7.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.1.7/FreeSpeaker-0.1.7.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.1.7/FreeSpeaker-0.1.7.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.1.7/FreeSpeaker-0.1.7.dmg",
+    "sha256": "6F5D39926414E13186CB6D68B2B16D29198E40895081B26C28F6F90C8F3D1349",
+    "signature": "D36qSCZmuicrY8q8wjktRw7VgXKHfedQIEgjZBarQ5YB2ow9iCt7cFhgHN6i4ENjz3bvFt2XkpFKTCZtF1zcCg==",
+    "notes": "Release v0.1.7"
 }
