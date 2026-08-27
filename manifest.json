@@ -1,10 +1,10 @@
 {
-    "version": "0.1.9",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.1.9/FreeSpeaker-0.1.9.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.1.9/FreeSpeaker-0.1.9.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.1.9/FreeSpeaker-0.1.9.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.1.9/FreeSpeaker-0.1.9.dmg",
-    "sha256": "73D5F86135F96F1607CBB92F6C5DCF4275CA575570E45A9760AEAD8A4AA5538F",
-    "signature": "DVi+eGog6VJd2irV7GsnhFCC6Fr35OJXoEtGbFgjmmdhC9cGIebYf4rRt6R4sFM+kg2I9/tYei8LGjjH2NiHDA==",
-    "notes": "Fixed: Robot Audio"
+    "version": "0.2.0",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.0/FreeSpeaker-0.2.0.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.0/FreeSpeaker-0.2.0.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.0/FreeSpeaker-0.2.0.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.0/FreeSpeaker-0.2.0.dmg",
+    "sha256": "ADA106676950B049704D6186540593E56D33F132FD130FEC206DBC5EF3910870",
+    "signature": "SzgnOjo9N734IIwxd7Ll0fVCOeko0z2eHWK4EXyNFrrOFAEGRqQbNKd34L37xatGNLzQvrRGuFkxo4fr1qE+Cw==",
+    "notes": "1. General bug fixes\n2. Better reactivity for user experience\n3. Updated server"
 }
