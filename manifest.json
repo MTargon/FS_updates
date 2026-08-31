@@ -1,10 +1,10 @@
 {
-    "version": "0.2.0",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.0/FreeSpeaker-0.2.0.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.0/FreeSpeaker-0.2.0.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.0/FreeSpeaker-0.2.0.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.0/FreeSpeaker-0.2.0.dmg",
-    "sha256": "ADA106676950B049704D6186540593E56D33F132FD130FEC206DBC5EF3910870",
-    "signature": "SzgnOjo9N734IIwxd7Ll0fVCOeko0z2eHWK4EXyNFrrOFAEGRqQbNKd34L37xatGNLzQvrRGuFkxo4fr1qE+Cw==",
-    "notes": "1. General bug fixes\n2. Better reactivity for user experience\n3. Updated server"
+    "version": "0.2.1",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.1/FreeSpeaker-0.2.1.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.1/FreeSpeaker-0.2.1.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.1/FreeSpeaker-0.2.1.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.1/FreeSpeaker-0.2.1.dmg",
+    "sha256": "9EA62CCF896E8B7962115A6705A319DBAA8F19022A47F978B4D798CBDD2A49D7",
+    "signature": "KFhDHQn0IEblJpjo3iB033CJBtD0jRn5pcF4OEiqIPt5gxcEvRCURPyCJt2Ix6+pmQBpJ8Gpyz1x3uH2RBCWDg==",
+    "notes": "Updated:\n1. New talking indicator!\n2. New options look!\n3. Better UI reactivity\n4. New channel options look - swipe them to the left for more!"
 }
