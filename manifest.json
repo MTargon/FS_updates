@@ -1,10 +1,10 @@
 {
-    "version": "0.2.3",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.3/FreeSpeaker-0.2.3.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.3/FreeSpeaker-0.2.3.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.3/FreeSpeaker-0.2.3.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.3/FreeSpeaker-0.2.3.dmg",
-    "sha256": "3DCD00B3BCF08716C060A58CE8236015C6C36F18379A1C1F8CDAD3B38B8467D7",
-    "signature": "3fQNDWYR/Erg+LnDEpPF9FkjqaEi2sLgZ9wzhuGbMK3sykxUnOtfBEFhcz6XL7unBP4OVUCwKeNo4VGgXRS4BA==",
-    "notes": "1. Fixed some bugs\n\ta) Now language options will be loaded from your drive - no need to set up again and again and again...\n\tb) Now the server will not save the people on channel, that created bugs with connecting up to the server\n2. Shortcuts! Set them up in options! Now you don't need to close your game to mute."
+    "version": "0.2.5",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.5/FreeSpeaker-0.2.5.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.5/FreeSpeaker-0.2.5.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.5/FreeSpeaker-0.2.5.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.5/FreeSpeaker-0.2.5.dmg",
+    "sha256": "DD5EAEE046910DAF22ED9D9F0C54BBA17B1F417DFA94E4E1A8FEB5778B048C7F",
+    "signature": "0y8mSVt7uEq2cg28zGu4WTFWFp/ahsmH2FpekywclmkRUyLTQGds49s5vNgIOlTs7maIUogtkTGzEXEY9IByDw==",
+    "notes": "Download Manually for updater fixes at:\nhttps://github.com/MTargon/FS_updates/releases/download/0.2.5/FreeSpeaker-0.2.5.msi\n1. Fixed some bugs\n\ta) Now language options will be loaded from your drive - no need to set up again and again and again...\n\tb) Now the server will not save the people on channel, that created bugs with connecting up to the server\n2. Shortcuts! Set them up in options! Now you don't need to close your game to mute."
 }
