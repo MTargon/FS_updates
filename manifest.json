@@ -1,10 +1,10 @@
 {
-    "version": "0.2.2",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.2/FreeSpeaker-0.2.2.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.2/FreeSpeaker-0.2.2.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.2/FreeSpeaker-0.2.2.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.2/FreeSpeaker-0.2.2.dmg",
-    "sha256": "C3C1CDC18B28BE70056CE16716EFFDE20BF30382F9A8574AC928FE9174DA9886",
-    "signature": "KRlkJGluU3EZd+SK4WiugvmT0EANHEuVsrfDprD1wYjUwIzHb59xTiBh/lA0riA+sS8jm0Q7f2FWNpf6Wg0EDw==",
+    "version": "0.2.3",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.3/FreeSpeaker-0.2.3.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.3/FreeSpeaker-0.2.3.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.3/FreeSpeaker-0.2.3.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.3/FreeSpeaker-0.2.3.dmg",
+    "sha256": "C0B20E82800A987A96F7B1A0E5718851EC5135008E63A595B9886E096D78258A",
+    "signature": "FRwbH4rWids4DeEpb09+bvXUNPpMlAiexSZM1T7vcA3BXZmO3eo2IfBSBzDsEm9xBr2XwsWz4RxtBYtCoz9+Ag==",
     "notes": "1. Fixed some bugs\n\ta) Now language options will be loaded from your drive - no need to set up again and again and again...\n\tb) Now the server will not save the people on channel, that created bugs with connecting up to the server\n2. Shortcuts! Set them up in options! Now you don't need to close your game to mute."
 }
