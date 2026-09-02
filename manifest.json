@@ -1,10 +1,10 @@
 {
-    "version": "0.2.6",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.6/FreeSpeaker-0.2.6.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.6/FreeSpeaker-0.2.6.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.6/FreeSpeaker-0.2.6.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.6/FreeSpeaker-0.2.6.dmg",
-    "sha256": "C5E383087E2422288D935523129B038021DE8EC16EA8008B53990069E9FD2E26",
-    "signature": "6JriXdV6BAvEzL7SE9K5ABqC0TKGXrrYyqA9uYoACoxsewvcQ+H8yKbU8BsmkaMDB7WyOdifJ+CvRpThiOKjBQ==",
-    "notes": "1. Added annotations to the text messages!\n2. Fixed some bugs!"
+    "version": "0.2.7",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.7/FreeSpeaker-0.2.7.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.7/FreeSpeaker-0.2.7.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.7/FreeSpeaker-0.2.7.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.7/FreeSpeaker-0.2.7.dmg",
+    "sha256": "476CFF347973A58B38D13C6A9CC95EC14A52742CEA5123276B42660888F954BE",
+    "signature": "Ju6FlQ8Su5JmQ7Bol29qTS11/kCJ4lG291fECNmjXAvAxMBDn87rwJp3ttDUpA1mpTHjaoplSj4TIm7CFyXYBg==",
+    "notes": "1. Fixed text markings!\na) Use \"*text*\" for bold text\nb) Use \"/text/\" for italic text\nc) Use \"[text][text][text]\" for lists\n2. Now you can delete your own messages! (P.S. Admins can do that too!)"
 }
