@@ -1,10 +1,10 @@
 {
-    "version": "0.2.7",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.7/FreeSpeaker-0.2.7.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.7/FreeSpeaker-0.2.7.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.7/FreeSpeaker-0.2.7.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.7/FreeSpeaker-0.2.7.dmg",
-    "sha256": "476CFF347973A58B38D13C6A9CC95EC14A52742CEA5123276B42660888F954BE",
-    "signature": "Ju6FlQ8Su5JmQ7Bol29qTS11/kCJ4lG291fECNmjXAvAxMBDn87rwJp3ttDUpA1mpTHjaoplSj4TIm7CFyXYBg==",
-    "notes": "1. Fixed text markings!\na) Use \"*text*\" for bold text\nb) Use \"/text/\" for italic text\nc) Use \"[text][text][text]\" for lists\n2. Now you can delete your own messages! (P.S. Admins can do that too!)"
+    "version": "0.2.8",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.8/FreeSpeaker-0.2.8.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.8/FreeSpeaker-0.2.8.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.8/FreeSpeaker-0.2.8.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.8/FreeSpeaker-0.2.8.dmg",
+    "sha256": "D5CDBF3D49E9C3E99742315B61B9A2F76FD2324869BCBBB4255D3D80BEE718D5",
+    "signature": "T/qPrUc9Szwg0p1XPxCGpYcnsOJgviB/N7kzqDntv8mciNooi0Om+BCT+95i3yc9ZBDiJQVbUYn/ceXUDpgTCw==",
+    "notes": "\uD83D\uDEE0\uFE0F v0.2.7 — Admin Panel\nAdmin panel now appears only for Owners and Administrators.\nOwner is untouchable — no role-changing, ban, or kick options.\nPeople list sorted by role hierarchy (Owners on top).\nCleaner, redesigned app background — consistent at any window size.\nMinor fixes and optimizations."
 }
