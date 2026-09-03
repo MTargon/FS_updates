@@ -6,5 +6,5 @@
     "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.9/FreeSpeaker-0.2.9.dmg",
     "sha256": "0951BF93D8C3506D26D1C37214BB681941C0A798B4A550C0D0F02C537751692E",
     "signature": "pn5fPAlrH4poDQ9aLwp4GgDtRNnnNmlwg6Psl4vUfh//TWoRS3zrgfZe6+uov8c/kvM4mOwuM4Y2V6M0Y6okBw==",
-    "notes": "\uD83D\uDEE0\uFE0F 0.2.7 — Admin Panel\nAdmin panel now appears only for Owners and Administrators.\nOwner is untouchable — no role-changing, ban, or kick options.\nPeople list sorted by role hierarchy (Owners on top).\nCleaner, redesigned app background — consistent at any window size.\nMinor fixes and optimizations."
+    "notes": "\uD83D\uDEE0\uFE0F 0.2.9 — Admin Panel\nAdmin panel now appears only for Owners and Administrators.\nOwner is untouchable — no role-changing, ban, or kick options.\nPeople list sorted by role hierarchy (Owners on top).\nCleaner, redesigned app background — consistent at any window size.\nMinor fixes and optimizations."
 }
