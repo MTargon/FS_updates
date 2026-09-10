@@ -1,10 +1,10 @@
 {
-    "version": "0.2.9",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.2.9/FreeSpeaker-0.2.9.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.9/FreeSpeaker-0.2.9.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.9/FreeSpeaker-0.2.9.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.2.9/FreeSpeaker-0.2.9.dmg",
-    "sha256": "0951BF93D8C3506D26D1C37214BB681941C0A798B4A550C0D0F02C537751692E",
-    "signature": "pn5fPAlrH4poDQ9aLwp4GgDtRNnnNmlwg6Psl4vUfh//TWoRS3zrgfZe6+uov8c/kvM4mOwuM4Y2V6M0Y6okBw==",
-    "notes": "\uD83D\uDEE0\uFE0F 0.2.9 — Admin Panel\nAdmin panel now appears only for Owners and Administrators.\nOwner is untouchable — no role-changing, ban, or kick options.\nPeople list sorted by role hierarchy (Owners on top).\nCleaner, redesigned app background — consistent at any window size.\nMinor fixes and optimizations."
+    "version": "0.3.0",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.3.0/FreeSpeaker-0.3.0.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.0/FreeSpeaker-0.3.0.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.0/FreeSpeaker-0.3.0.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.0/FreeSpeaker-0.3.0.dmg",
+    "sha256": "4DF32B93AD0BEFC98B45E036906946581556B4036C96367FAEF6FC18EE6D48FD",
+    "signature": "9ds+tLlnazkb/TIwZYsPQoUGy9OpwQCHSzc4Pde5d2F5B60rZ2IwdXT4/7lla/i8kyvyQXLAhDbssHDNZQuiCQ==",
+    "notes": "1. Created announcement system.\n2. Now you will hear sound while connecting.\n3. Created scheme system for GamePlanner!\na) Now you can pick dedicated Overwatch scheme!\nb) Soon there will be Scheme Editor implemented!\n4. Fixed some bugs!\n5. New sound for messages!"
 }
