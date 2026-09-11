@@ -1,10 +1,10 @@
 {
-    "version": "0.3.1",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.3.1/FreeSpeaker-0.3.1.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.1/FreeSpeaker-0.3.1.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.1/FreeSpeaker-0.3.1.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.1/FreeSpeaker-0.3.1.dmg",
-    "sha256": "2963E6224E69716604ADFA23B1191E4882A061A02FC337FCF46605E1D7D27F47",
-    "signature": "2Z8Tfo3CxZ9zzfZr+U7gbx5o+nDPp39N7nxVDojLWH6YkZYeqWkGOEWLtmFDJRuSDkHKkz34G1dhf0r/Ae7cCw==",
+    "version": "0.3.2",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.3.2/FreeSpeaker-0.3.2.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.2/FreeSpeaker-0.3.2.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.2/FreeSpeaker-0.3.2.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.2/FreeSpeaker-0.3.2.dmg",
+    "sha256": "6BF74812BE72FD1F08AAE9595A5F9F3F0BD0347AEA0576C8DCCB7FE40276446C",
+    "signature": "kTlKhDQgOfmqLJykzQpQ7fYYsOTjFxv0Lon3wdHB3+GSjFAu3C0Y9ZxDDZ/iNXBuWJeeT7HKZ2LY64HwmZtaAA==",
     "notes": "1. Created announcement system.\n2. Now you will hear sound while connecting.\n3. Created scheme system for GamePlanner!\na) Now you can pick dedicated Overwatch scheme!\nb) Soon there will be Scheme Editor implemented!\n4. Fixed some bugs!\n5. New sound for messages!"
 }
