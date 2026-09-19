@@ -1,10 +1,10 @@
 {
-    "version": "0.3.4",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.3.4/FreeSpeaker-0.3.4.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.4/FreeSpeaker-0.3.4.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.4/FreeSpeaker-0.3.4.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.4/FreeSpeaker-0.3.4.dmg",
-    "sha256": "38E803A48383CA34149982E3BC9BA3F2FF7AA52EE8F11313E044EB2E9F1C6C54",
-    "signature": "MvPFUuNae1NG4rPlzfMbltADjam6kcTebJRGllPDp10r7hoZPYs7Cs92t5t6NY9TKX5rDR6cvqpsr4QvD1r6DA==",
-    "notes": "1. New language versions!\na) Czech\nb) Slovak\nc) Spanish\nd) French\ne) Swedish\n2. Fixed some bugs!\n3. Small redesign of UI"
+    "version": "0.3.5",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.3.5/FreeSpeaker-0.3.5.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.5/FreeSpeaker-0.3.5.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.5/FreeSpeaker-0.3.5.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.5/FreeSpeaker-0.3.5.dmg",
+    "sha256": "9EAEE57898042AAEBCCA5DC3EB19C15B337568F458B4BEED0292D4F03260213F",
+    "signature": "jS7aCEMa7CN7kUmuKsY3tmmbZR3VAO/NVosHTjwT0nfGL5g1kZY+POalEQ8IdMwgryJtLkLyQKFrxdTuatzmBg==",
+    "notes": "1. New calendar and timer!\n2. Fixed some bugs\n3. Little redesign of UI"
 }
