@@ -1,10 +1,10 @@
 {
-    "version": "0.3.6",
-    "url": "https://github.com/MTargon/FS_updates/releases/download/0.3.6/FreeSpeaker-0.3.6.msi",
-    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.6/FreeSpeaker-0.3.6.msi",
-    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.6/FreeSpeaker-0.3.6.deb",
-    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.6/FreeSpeaker-0.3.6.dmg",
-    "sha256": "6B42C661EEC58FEB2511BCB5A167EE8CBD675994ACD84DCA08618365A04F4C64",
-    "signature": "fa+EaFrXHMMHNAocg2R5MajtUh9JGWPrtYPbBITSb226Jf/jxZGwRf8UveJP1+6mKPvymxcH4USB5rm2JXzPAw==",
-    "notes": "1. New calendar and timer!\n2. Fixed some bugs\n3. Little redesign of UI"
+    "version": "0.3.7",
+    "url": "https://github.com/MTargon/FS_updates/releases/download/0.3.7/FreeSpeaker-0.3.7.msi",
+    "windowsUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.7/FreeSpeaker-0.3.7.msi",
+    "linuxUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.7/FreeSpeaker-0.3.7.deb",
+    "macUrl": "https://github.com/MTargon/FS_updates/releases/download/0.3.7/FreeSpeaker-0.3.7.dmg",
+    "sha256": "A24BE13E5811DEB91046A74676F384A390202671A62CD36886E4AF148383E8E0",
+    "signature": "YKKJK+Gj0unlQJDtH+GeMULz14xaSDXN2odGKGhJ+yRC72KPZOsjwPEGz9IplwPhBWKqJheTwasrr/D0mFxKAg==",
+    "notes": "Release v0.3.7"
 }
